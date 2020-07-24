@@ -1,0 +1,17 @@
+{
+  "name": "get-unique-words",
+  "version": "1.0.0",
+  "description": "A package to get an array of non repeating words from string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js",
+    "prepublish": "npm test"
+  },
+  "keywords": [
+    "unique",
+    "words",
+    "parser"
+  ],
+  "author": "Ev1l Soda",
+  "license": "MIT"
+}
