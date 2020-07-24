@@ -1,8 +1,12 @@
 {
   "name": "get-unique-words",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A package to get an array of non repeating words from string.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ev1lSoda/get-unique-words"
+  },
   "scripts": {
     "test": "node index.test.js",
     "prepublish": "npm test"
